@@ -1,8 +1,0 @@
-include README.md
-include LICENSE
-include niles/bin/*
-include niles/py.typed
-include niles/ext/commands/py.typed
-include niles/ext/tasks/py.typed
-global-exclude *.py[cod]
-exclude pdm.lock

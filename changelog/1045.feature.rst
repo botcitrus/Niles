@@ -1,0 +1,1 @@
+|commands| Implement :func:`~niles.ext.commands.app_check` and :func:`~niles.ext.commands.app_check_any` decorators.

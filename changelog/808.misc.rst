@@ -1,0 +1,1 @@
+Update the ``python -m niles newcog`` template to include all missing special methods.

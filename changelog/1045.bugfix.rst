@@ -1,0 +1,1 @@
+|commands| Fix incorrect typings of :meth:`~niles.ext.commands.InvokableApplicationCommand.add_check`, :meth:`~niles.ext.commands.InvokableApplicationCommand.remove_check`, :meth:`~niles.ext.commands.InteractionBotBase.add_app_command_check` and :meth:`~niles.ext.commands.InteractionBotBase.remove_app_command_check`.
